@@ -3,9 +3,9 @@ MQTT
 zu Laufschrift
 display/ledlaufschrift/text (Text wird dauerhart durch gefahren)
 
-display/ledlaufschrift/text2 (Text l‰uft einmal durch und melden sich dann)
+display/ledlaufschrift/text2 (Text l√§uft einmal durch und melden sich dann)
 
-display/ledlaufschrift/text3 (statischer Text max. Zeichen)
+display/ledlaufschrift/text3 (statischer Text max. 12 Zeichen)
 
 von Laufschrift
 display/ledlaufschrift/on (Status)(online/offline)
