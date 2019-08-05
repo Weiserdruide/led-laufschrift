@@ -1,0 +1,13 @@
+Led Laufschrift
+MQTT
+zu Laufschrift
+display/ledlaufschrift/text (Text wird dauerhart durch gefahren)
+
+display/ledlaufschrift/text2 (Text läuft einmal durch und melden sich dann)
+
+display/ledlaufschrift/text3 (statischer Text max. Zeichen)
+
+von Laufschrift
+display/ledlaufschrift/on (Status)(online/offline)
+
+display/ledlaufschrift/text2fertig (Durchlauf bei text2 fertig)(0/1)
